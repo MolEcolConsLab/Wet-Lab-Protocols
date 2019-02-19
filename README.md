@@ -3,5 +3,5 @@ These lab protocols include enoguh detail to be adapted to any lab, but contain 
 
 ## Protocols available
 * mulitplexed RAD-sequencing library
-  * See BestRAD_NOv2018_SBnotes for the first steps of making the multiplexed library
-  * See NEB UltraII updated SOP_SMB for a description of how have modified the NEB Ultra II library prep kit to use with our BestRAD product
+  * See BestRAD_Nov2018_SBnotes.docx for the first steps of making the multiplexed library
+  * See NEB UltraII updated SOP_SMB.docx for a description of how have modified the NEB Ultra II library prep kit to use with our BestRAD product
