@@ -7,3 +7,7 @@ These lab protocols include details needed for adaption to any lab, but contain 
   * See NEB UltraII updated SOP_SMB.docx for a description of how have modified the NEB Ultra II library prep kit to use with our BestRAD product
 * RNA library prep
   * see NEBdirectionalkit.working.SOP.Komoroske.lab_JP_LK_SB
+
+* DNA extractions
+  * See Ampure bead extraction protocol: High_yield_Ampure_bead_extraction_11_07_2022.pdf
+
